@@ -127,8 +127,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/kra-mo/cartridges",
-                    "tag": "v2.10.1",
-                    "commit": "ce584a09c2d9ae5db2a35b194713dda9cca51d22"
+                    "tag": "v2.11",
+                    "commit": "1535d0a593a883842d2689fdfa7e9b4df2fdcad3"
                 }
             ]
         }
