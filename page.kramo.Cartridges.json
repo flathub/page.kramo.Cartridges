@@ -126,7 +126,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://github.com/kra-mo/cartridges",
+                    "url" : "https://git.kramo.page/cartridges",
                     "tag": "v2.12.1",
                     "commit": "98891e31f3db4d19be887f790eb800fda8b3be89"
                 }
