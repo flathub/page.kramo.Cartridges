@@ -113,8 +113,8 @@
         {
           "type": "git",
           "url" : "https://git.kramo.page/cartridges",
-          "tag": "v2.13",
-          "commit": "db246b4be58df3a2fcb621fd42bbb470039fbb9f"
+          "tag": "v2.13.1",
+          "commit": "1549065d534447f5d4fe46b27d66934ca64109e2"
         }
       ]
     }
