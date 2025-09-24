@@ -114,7 +114,7 @@
           "type": "git",
           "url" : "https://git.kramo.page/cartridges",
           "tag": "v2.13.1",
-          "commit": "1549065d534447f5d4fe46b27d66934ca64109e2"
+          "commit": "4c49baddbc49053b1b9c64b49aa032dffb2d79b9"
         }
       ]
     }
